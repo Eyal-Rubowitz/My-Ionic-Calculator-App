@@ -1,5 +1,7 @@
 {
   "name": "ion-calc-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
